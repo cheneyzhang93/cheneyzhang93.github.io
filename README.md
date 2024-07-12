@@ -6,4 +6,4 @@
 
 #### I live and work in China, Chinese name is 张玉琛, and in my spare time, I also love playing Switch games, watching TV dramas, enjoying food, and following technology news with my girlfriend.
 
-#### My English level is average. If there are developers who understand Chinese, they can also communicate in Chinese
+#### My English level is average. If there are developers who understand Chinese, they can also communicate in Chinese.
